@@ -1,0 +1,12 @@
+.odd {
+    background-color: rgb(255, 182, 193);
+    font: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#title {
+    color: blue;
+    font-size: 36px;
+}
+.odd.pixel {
+    font-size: 24px;
+}
