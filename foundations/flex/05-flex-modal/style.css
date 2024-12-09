@@ -20,6 +20,7 @@ body {
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
+  padding: 10px 20px;
 }
 
 .icon {
@@ -78,6 +79,11 @@ button.cancel {
   align-items: center;
 }
 
+button, .header, .text{
+  text-align: left;
+}
+
 .header{
-  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
 }
