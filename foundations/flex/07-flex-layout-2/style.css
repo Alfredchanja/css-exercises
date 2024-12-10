@@ -41,6 +41,10 @@ body{
   align-items: center;
 }
 
+.sidebar{
+  flex-shrink: 0;
+}
+
 .footer{
   margin-top: auto;
   display: flex;
