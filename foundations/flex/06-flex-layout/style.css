@@ -25,6 +25,13 @@ input {
   width: 400px;
 }
 
+.content{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 ul {
   list-style-type: none;
 }
