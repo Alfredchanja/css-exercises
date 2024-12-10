@@ -25,13 +25,6 @@ input {
   width: 400px;
 }
 
-.content{
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
 ul {
   list-style-type: none;
 }
@@ -39,6 +32,22 @@ ul {
 a{
   text-decoration: none;
   color: gray;
+}
+
+body{
+  display: flex;
+  flex-direction: column;
+}
+
+button{
+  padding: 8px;
+}
+
+.content{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .header, .footer{
