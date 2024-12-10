@@ -33,6 +33,14 @@ body{
   flex-direction: column;
 }
 
+.header{
+  font-weight: 900;
+  font-size: 32px;
+  padding-left: 16px;
+  display: flex;
+  align-items: center;
+}
+
 .footer{
   margin-top: auto;
   display: flex;
